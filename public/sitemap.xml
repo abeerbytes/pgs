@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-DOMAIN.example with your real domain before launch. Product URLs are dynamic; see README (SEO). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/shop</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/offers</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/about</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/contact</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/delivery-policy</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/return-policy</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/privacy-policy</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/terms</loc></url>
+</urlset>

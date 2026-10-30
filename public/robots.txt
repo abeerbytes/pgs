@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order-confirmation/
+
+# Replace with your real domain once deployed
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
